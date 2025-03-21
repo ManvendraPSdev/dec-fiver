@@ -2,9 +2,6 @@
 
 Cutting-edge hybrid application blending Web2 and Web3, enabling secure blockchain based transparent task management dynamic platform with on-chain payments facilitated by crypto wallet, enabling secure authentication, payment locking, worker compensation—all powered by blockchain.
 
-## PROJECT-DEMO
-
-https://github.com/ujjwaljamuar/decentralized-fiver/assets/56722405/d62dac7b-c4a5-4a2c-8220-c5a0114df82b
 
 ## Features
 
